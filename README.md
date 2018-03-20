@@ -12,4 +12,6 @@ This is my Maven project from MuleSoft's advanced development class
 
 1. Package and deploy: `mvn install`
 
+git config --global user.email "ruchi0@yahoo.com"
 git commit -m "Initial Commit" .
+git push -u origin master
